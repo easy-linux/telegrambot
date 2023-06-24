@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=3,user-scalable=0,minimal-ui, viewport-fit=cover" />
+
+    <title>Mars</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        height: 100vh;
+        width: 100vw;
+        background-color: #000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    </style>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="https://telegram.org/js/games.js"></script>
+  </head>
+  <body>
+    <div
+      id="loading"
+      style="display: flex; position: absolute; width: 100vw; height: 100vh; justify-content: center; align-items: center; color: white; font-size: 20px"
+    >
+      <div id="loading-text">Loading - 1%</div>
+    </div>
+
+    <script src="src/index.js" type="module"></script>
+  </body>
+</html>

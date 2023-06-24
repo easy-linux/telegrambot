@@ -1,0 +1,136 @@
+{
+    "frames": {
+        "Bullet_Sequence1 1.png": {
+            "frame": {
+                "x": 2,
+                "y": 26,
+                "w": 11,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 18
+            }
+        },
+        "Bullet_Sequence1 2.png": {
+            "frame": {
+                "x": 2,
+                "y": 5,
+                "w": 11,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 18
+            }
+        },
+        "Bullet_Sequence1 3.png": {
+            "frame": {
+                "x": 18,
+                "y": 26,
+                "w": 11,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 18
+            }
+        },
+        "Bullet_Sequence1 4.png": {
+            "frame": {
+                "x": 18,
+                "y": 5,
+                "w": 11,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 18
+            }
+        },
+        "Bullet_Sequence1 5.png": {
+            "frame": {
+                "x": 36,
+                "y": 26,
+                "w": 11,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 18
+            }
+        },
+        "Bullet_Sequence1 6.png": {
+            "frame": {
+                "x": 36,
+                "y": 5,
+                "w": 11,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 18
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.texturepacker.com",
+        "version": "1.0",
+        "image": "bullet1.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 51,
+            "h": 49
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:17e4a2d92ff3e27832c3f4938cec7c85$"
+    }
+}
