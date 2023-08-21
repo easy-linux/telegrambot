@@ -1,0 +1,28 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^3.0.1",
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "@fastify/express": "^2.3.0",
+    "@fastify/static": "^6.10.2",
+    "detect-collisions": "^7.0.5",
+    "dotenv": "^16.3.1",
+    "fastify": "^4.18.0",
+    "howler": "^2.2.3",
+    "pixi.js": "^7.0.5",
+    "telegraf": "^4.12.2"
+  }
+}
