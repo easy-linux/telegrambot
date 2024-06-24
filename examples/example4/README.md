@@ -1,5 +1,5 @@
-# Example 1 for Telegram
-## Введение в разработку бота для Telegram
+# Example 3 for Telegram
+## Как создать Wizard UI для Teletgam бота с помощью фреймворка Telegraf
 
 ## Как пользоваться
 
@@ -14,11 +14,9 @@
    npm run start
 ```
 
-Обязательно создайте файл token.mjs и добавьте свой токен, как это  показано в видео выше. 
-
 ## Видео с объяснением как это все работает здесь:
 
-[![Видео здесь](https://img.youtube.com/vi/L_UYLs1mjEY/0.jpg)](https://www.youtube.com/watch?v=L_UYLs1mjEY)
+[![Видео здесь](https://img.youtube.com/vi/lSLLG1Xgzh8/0.jpg)](https://www.youtube.com/watch?v=lSLLG1Xgzh8)
 
 ## Еще по vitejs
 
